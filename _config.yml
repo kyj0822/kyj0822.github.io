@@ -19,7 +19,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "정상궤도 진입을 위한 성장일기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "공유진"
+name                     : "kyj0822"
 description              : "An amazing website."
 url                      : "https://kyj0822.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" 여기에도 url써도되는듯..
